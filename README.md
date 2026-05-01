@@ -1,6 +1,6 @@
-# Bloomberg Chat Trading Intent Extractor
+# Chat Trading Intent Extractor
 
-Reads Bloomberg chat-room messages and extracts client order intent into a CSV/database-ready structure.
+Reads Bloomberg etc chat-room messages and extracts client order intent into a CSV/database-ready structure.
 
 ## Input
 
