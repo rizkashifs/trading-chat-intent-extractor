@@ -1,0 +1,6 @@
+date,time,roomname,sender,participants,message
+2026-04-29,09:30:01,US_EQ_ROOM,client_101,"client_101;trader_7","Morning"
+2026-04-29,09:30:12,US_EQ_ROOM,client_101,"client_101;trader_7","Compra 4k LULU ptd"
+2026-04-29,09:30:45,US_EQ_ROOM,trader_7,"client_101;trader_7","Finals: B 4k LULU for 215.9752"
+2026-04-29,09:31:00,US_EQ_ROOM,client_101,"client_101;trader_7","ok confirmed"
+2026-04-29,09:35:11,US_EQ_ROOM,client_101,"client_101;trader_7","Sell 2mm AAPL limit 188.50"
