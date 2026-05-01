@@ -1,0 +1,90 @@
+{
+  "window_id": "window-000001",
+  "roomname": "US_EQ_ROOM",
+  "window_start": "2026-04-29 09:30:01",
+  "window_end": "2026-04-29 09:35:11",
+  "known_client_sender_ids": [
+    "client_101"
+  ],
+  "required_output_columns": [
+    "order_id",
+    "date",
+    "chat_timestamp",
+    "roomname",
+    "client_sender_id",
+    "product",
+    "side",
+    "quantity",
+    "order_type",
+    "price",
+    "event",
+    "order_message",
+    "order_time",
+    "close_reason",
+    "trigger_type",
+    "trigger_explanation",
+    "confidence_score"
+  ],
+  "messages": [
+    {
+      "row_number": 2,
+      "date": "2026-04-29",
+      "time": "09:30:01",
+      "roomname": "US_EQ_ROOM",
+      "sender": "client_101",
+      "participants": [
+        "client_101",
+        "trader_7"
+      ],
+      "message": "Morning"
+    },
+    {
+      "row_number": 3,
+      "date": "2026-04-29",
+      "time": "09:30:12",
+      "roomname": "US_EQ_ROOM",
+      "sender": "client_101",
+      "participants": [
+        "client_101",
+        "trader_7"
+      ],
+      "message": "Compra 4k LULU ptd"
+    },
+    {
+      "row_number": 4,
+      "date": "2026-04-29",
+      "time": "09:30:45",
+      "roomname": "US_EQ_ROOM",
+      "sender": "trader_7",
+      "participants": [
+        "client_101",
+        "trader_7"
+      ],
+      "message": "Finals: B 4k LULU for 215.9752"
+    },
+    {
+      "row_number": 5,
+      "date": "2026-04-29",
+      "time": "09:31:00",
+      "roomname": "US_EQ_ROOM",
+      "sender": "client_101",
+      "participants": [
+        "client_101",
+        "trader_7"
+      ],
+      "message": "ok confirmed"
+    },
+    {
+      "row_number": 6,
+      "date": "2026-04-29",
+      "time": "09:35:11",
+      "roomname": "US_EQ_ROOM",
+      "sender": "client_101",
+      "participants": [
+        "client_101",
+        "trader_7"
+      ],
+      "message": "Sell 2mm AAPL limit 188.50"
+    }
+  ]
+}

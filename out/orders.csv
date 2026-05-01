@@ -1,0 +1,3 @@
+order_id,date,chat_timestamp,roomname,client_sender_id,product,side,quantity,order_type,price,event,order_message,order_time,close_reason,trigger_type,trigger_explanation,confidence_score
+ord_sample_lulu,2026-04-29,2026-04-29 09:30:12,US_EQ_ROOM,client_101,LULU,BUY,4k shares,,215.9752,new,Compra 4k LULU ptd,2026-04-29 09:30:12,confirmed,client initiated,Client initiated the order and later confirmed trader final price,0.92
+ord_sample_aapl,2026-04-29,2026-04-29 09:35:11,US_EQ_ROOM,client_101,AAPL,SELL,2mm,Limit,188.50,new,Sell 2mm AAPL limit 188.50,2026-04-29 09:35:11,unconfirmed,client initiated,Client sent a sell limit order instruction,0.9

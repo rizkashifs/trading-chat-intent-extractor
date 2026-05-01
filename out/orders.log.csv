@@ -1,0 +1,6 @@
+event_type,window_id,roomname,row_number,chat_timestamp,sender,order_id,prompt_tokens,completion_tokens,total_tokens,details
+input_row_analyzed,window-000001,US_EQ_ROOM,2,2026-04-29 09:30:01,client_101,,,,,Morning
+input_row_analyzed,window-000001,US_EQ_ROOM,3,2026-04-29 09:30:12,client_101,,,,,Compra 4k LULU ptd
+input_row_analyzed,window-000001,US_EQ_ROOM,4,2026-04-29 09:30:45,trader_7,,,,,Finals: B 4k LULU for 215.9752
+input_row_analyzed,window-000001,US_EQ_ROOM,5,2026-04-29 09:31:00,client_101,,,,,ok confirmed
+input_row_analyzed,window-000001,US_EQ_ROOM,6,2026-04-29 09:35:11,client_101,,,,,Sell 2mm AAPL limit 188.50

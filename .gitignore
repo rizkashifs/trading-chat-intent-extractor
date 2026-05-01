@@ -4,4 +4,9 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 pytest-cache-files-*/
-out/
+out/*
+!out/orders.csv
+!out/orders.log.csv
+!out/run_log.csv
+!out/debug/
+!out/debug/window-000001.prompt.json
